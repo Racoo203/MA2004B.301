@@ -1,0 +1,15 @@
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\bin\Debug\net8.0\Algoritmos Pseudoaleatorios.exe
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\bin\Debug\net8.0\Algoritmos Pseudoaleatorios.deps.json
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\bin\Debug\net8.0\Algoritmos Pseudoaleatorios.runtimeconfig.json
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\bin\Debug\net8.0\Algoritmos Pseudoaleatorios.dll
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\bin\Debug\net8.0\Algoritmos Pseudoaleatorios.pdb
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.AssemblyInfoInputs.cache
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.AssemblyInfo.cs
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.csproj.CoreCompileInputs.cache
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.sourcelink.json
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.dll
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\refint\Algoritmos Pseudoaleatorios.dll
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.pdb
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\Algoritmos Pseudoaleatorios.genruntimeconfig.cache
+C:\Users\rcorr\Documents\Development\MA2004B.301\Algoritmos Pseudoaleatorios\obj\Debug\net8.0\ref\Algoritmos Pseudoaleatorios.dll
